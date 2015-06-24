@@ -1,0 +1,11 @@
+@media (min-width: 768px){
+  header .container {
+    padding-top: 138px;
+    padding-bottom: 65px;
+  }
+}
+.image_css{
+  border-radius: 50%;
+  height: 276px;
+  width: 256px;
+}
